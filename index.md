@@ -4,7 +4,7 @@
 
 Hello CSE 15L folks!
 
-Welcome to the fourt lecture!
+Welcome to the fourth lecture!
 
 **This is a bold text**
 *This is an italic text*
