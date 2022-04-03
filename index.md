@@ -28,5 +28,7 @@ Here is a list example:
 
 ![Apple-image](https://applehospitalityreit.com/wp-content/uploads/2019/03/apple-favicon.png)
 
+### Let's add this final header to close this document.
+
 
 
